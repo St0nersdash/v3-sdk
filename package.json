@@ -34,7 +34,7 @@
     "tiny-warning": "^1.0.3"
   },
   "devDependencies": {
-    "@types/jest": "^27.4.1",
+    "@types/jest": "^29.5.14",
     "@uniswap/v3-core": "1.0.0",
     "tsdx": "^0.14.1"
   },
