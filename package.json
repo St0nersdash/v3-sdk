@@ -36,7 +36,7 @@
   "devDependencies": {
     "@types/jest": "^27.4.1",
     "@uniswap/v3-core": "1.0.1",
-    "tsdx": "^0.14.1"
+    "tsdx": "^2.0.0"
   },
   "engines": {
     "node": ">=10"
